@@ -138,4 +138,4 @@
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-For details you can check my code : [Data Analysis and Visualization on UTBK 2019.ipynb](https://github.com/rifkyahmadsaputra/Data-Analysis-and-Visualization-on-UTBK-2019/blob/master/Data%20Analysis%20and%20Visualization%20on%20UTBK%202019.ipynb)
+For details you can check my code : [Data Analysis and Visualization on Data Scientist Jobs.ipynb](https://github.com/rifkyahmadsaputra/Data-Analysis-and-Visualization-on-Data-Scientist-Jobs/blob/master/Data%20Analysis%20and%20Visualization%20on%20Data%20Scientist%20Jobs.ipynb)
