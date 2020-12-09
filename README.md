@@ -37,27 +37,31 @@
  Top 10 location based on count of data scientist jobs
 </p>
 <br></br>
-- Analysis and visualization top and bottom 5 sector based on count of data scientist jobs in each locations
+
+- Analysis and visualization top 5 sector based on count of data scientist jobs in each locations
 <p align="center"> 
- <img src="images/top and bottom 5 sector based on count of data scientist jobs in each locations.png" />
+ <img src="images/top 5 sector based on count of data scientist jobs in each locations.png" />
  <br></br>
- Top and bottom 5 sector based on count of data scientist jobs in each locations
+ Top 5 sector based on count of data scientist jobs in each locations
 </p>
 <br></br>
-- Analysis and visualization top and bottom 5 industry based on count of data scientist jobs in each locations
+
+- Analysis and visualization top 5 industry based on count of data scientist jobs in each locations
 <p align="center"> 
- <img src="images/top and bottom 5 industry based on count of data scientist jobs in each locations.png" />
+ <img src="images/top 5 industry based on count of data scientist jobs in each locations.png" />
  <br></br>
- Top and bottom 5 industry based on count of data scientist jobs in each locations
+ Top 5 industry based on count of data scientist jobs in each locations
 </p>
 <br></br>
-- Analysis and visualization top and bottom 5 salary based on count of data scientist jobs in each locations
+
+- Analysis and visualization top 5 salary based on count of data scientist jobs in each locations
 <p align="center"> 
- <img src="images/top and bottom 5 salary based on count of data scientist jobs in each locations.png" /> 
+ <img src="images/top 5 salary based on count of data scientist jobs in each locations.png" /> 
  <br></br>
- Top and bottom 5 salary based on count of data scientist jobs in each locations
+ Top 5 salary based on count of data scientist jobs in each locations
 </p>
 <br></br>
+
 ### Analysis and visualization on salary estimate columns
 - Analysis and visualization top and bottom 10 average salary estimate for data scientist jobs in each locations
 <p align="center"> 
@@ -66,6 +70,7 @@
  Top and bottom 10 average salary estimate for Data Scientist Jobs in each locations
 </p>
 <br></br>
+
 - Analysis and visualization top and bottom 10 average salary estimate for data scientist jobs in each sectors
 <p align="center"> 
  <img src="images/top and bottom 10 average salary estimate for data scientist jobs in each sectors.png" /> 
@@ -73,6 +78,7 @@
  Top and bottom 10 average salary estimate for Data Scientist Jobs in each sectors
 </p>
 <br></br>
+
 - Analysis and visualization top and bottom 10 average salary estimate for data scientist jobs in each industries
 <p align="center"> 
  <img src="images/top and bottom 10 average salary estimate for data scientist jobs in each industries.png" /> 
@@ -80,6 +86,7 @@
  Top and bottom 10 average salary estimate for Data Scientist Jobs in each industries
 </p>
 <br></br>
+
 ### Analysis and visualization on easy apply columns
 - Analysis and visualization the comparasion of whether data scientist jobs is easy apply or not
 <p align="center"> 
@@ -88,6 +95,7 @@
  Easy apply for data scientist jobs
 </p>
 <br></br>
+
 ### Analysis and visualization on revenue columns
 - Analysis and visualization counts of data scientist jobs based on revenue
 <p align="center"> 
@@ -96,6 +104,7 @@
  Counts of data scientist jobs based on revenue
 </p>
 <br></br>
+
 ### Analysis and visualization on rating columns
 - Analysis and visualization counts of data scientist jobs based on rating
 <p align="center"> 
@@ -104,6 +113,7 @@
  Counts of data scientist jobs based on rating
 </p>
 <br></br>
+
 - Analysis and visualization top and bottom 10 average rating of Company who open recruitment data scientist jobs in each locations
 <p align="center"> 
  <img src="images/top and bottom 10 average rating of Company who open recruitment data scientist jobs in each locations.png" /> 
@@ -111,6 +121,7 @@
  Top and bottom 10 average rating of Company who open recruitment data scientist jobs in each locations
 </p>
 <br></br>
+
 - Analysis and visualization top and bottom 10 average rating of Company who open recruitment data scientist jobs in each sectors
 <p align="center"> 
  <img src="images/top and bottom 10 average rating of Company who open recruitment data scientist jobs in each sectors.png" /> 
@@ -118,6 +129,7 @@
  Top and bottom 10 average rating of Company who open recruitment data scientist jobs in each sectors
 </p>
 <br></br>
+
 - Analysis and visualization top and bottom 10 average rating of Company who open recruitment data scientist jobs in each industries
 <p align="center"> 
  <img src="images/top and bottom 10 average rating of Company who open recruitment data scientist jobs in each industries.png" /> 
