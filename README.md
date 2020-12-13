@@ -2,7 +2,7 @@
 
 ## Introduction
 <p align = "justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this time, I will share my analysis and visualization what I did on Data Scientist Jobs Dataset. The dataset I got from Kaggle (Source : https://www.kaggle.com/andrewmvd/data-scientist-jobs ). The dataset scraped from glassdoor, and it contains 3909 rows data and 17 columns(that is ‘Job Title’, ‘Salary Estimate’, ‘Job Description‘, etc). From that dataset, I have analyzed and visualized it to gain informations from that data and also make the data can be easily understood. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At this time, I will share my analysis and visualization what I did on Data Scientist Jobs Dataset. The dataset I got from Kaggle (Source : https://www.kaggle.com/andrewmvd/data-scientist-jobs ). The dataset scraped from glassdoor, and it contains 3909 rows data and 17 columns(that is ‘Job Title’, ‘Salary Estimate’, ‘Job Description‘, etc). From that dataset, I have analyzed and visualized it to gain informations from that data and also make the data can be easily understood. 
 </p>
 
 ## Data
